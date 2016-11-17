@@ -1,0 +1,17 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/add.test.js",
+    "watch": "mocha --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jquery": "^3.1.1",
+    "mocha": "^3.1.2"
+  }
+}
